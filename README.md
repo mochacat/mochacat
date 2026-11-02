@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-How to reach me: cat@anestoa.com
+🔭 I build runtime guardrails and zero-trust architecture for agentic systems
+
+**Stack:** Python · Go · LangChain · Kubernetes · AWS · OpenTofu
+
+**Available for C2C / contract engagements.**
+
+📫 send me a ping at cat@anestoa.com
 
 <!--
 **mochacat/mochacat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
